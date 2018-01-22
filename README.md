@@ -9,7 +9,7 @@ The projects presented in my [Introduction to Augmented Reality with ARKit](http
 - Virtual 3D Shapes in Your Living Room
 - Where to Go from Here?
 
-Some screenshot from demos we’re going to build in this tutorial:
+Some screenshots from the demos we’re going to build in this tutorial:
 
 ***
 ![](https://raw.githubusercontent.com/pluralsight/guides/master/images/cf003f0e-cf95-443b-90d0-ee80123a20fe.PNG)
